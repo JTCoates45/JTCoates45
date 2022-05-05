@@ -1,6 +1,6 @@
 - 👋 Hi, I’m J.T. Coates
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning JavaScript, HTML, CSS
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Any project that will help increase my knowledge
 - 📫 How to reach me. wyosred@yahoo.com
 
